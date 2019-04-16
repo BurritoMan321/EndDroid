@@ -1,0 +1,6 @@
+H-Bridge (rond de 5 euro, )
+Raspberry PI (aanwezig)
+Jumper kabels (aanwezig)
+9V Batterij pack (kopen)
+Behuizing (zelf maken)
+Wielen (kopen)
