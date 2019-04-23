@@ -1,2 +1,2 @@
-H-Bridge (rond de 5 euro, 'https://www.beslist.nl/klussen/d0024027249/Smart_Elektronica_L298N_Stepper_DC_Motor_Driver_Shield_Expansie.html?productIdentifier=00000150323879387249956247671')
-Caster wheel (kopen, 'https://www.beslist.nl/overig/d0230264421/Dia_15mm_Roestvrij_staal_Sliver_Swivel_Round_Ball_Caster_Transfer_Ball_Bearing_Roller_Wheel.html?productIdentifier=00000047721611890277978244257')
+H-Bridge (rond de 5 euro, 'https://www.tinytronics.nl/shop/nl/robotica/motoren/motoraansturingen/l298n-bipolaire-stappenmotor-en-dc-motor-motoraansturing')
+6x knopppen (https://www.tinytronics.nl/shop/nl/componenten/schakelaars/grote-rode-drukknop-24mm-of-40mm-reset)
